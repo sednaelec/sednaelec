@@ -121,7 +121,7 @@ Designed & developed by
 
 ### 🔹 Team Leadership
 
-**Team Leader & Electronic CTO**  
+**Team Leader & Electronic Manager**  
 **Mohammad Amin Khadem Al Hosseini**  
 🔗 GitHub: https://github.com/amin98hosseini
 
@@ -133,7 +133,6 @@ Designed & developed by
 **Zahra AminRayai Jezeh**  
 🔗 GitHub: https://github.com/zahra-aminraya
 
-> *Engineering reliable hardware for intelligent systems.*
 
 ---
 
