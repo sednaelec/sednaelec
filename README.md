@@ -119,6 +119,22 @@ Designed & developed by
 
 > *Engineering reliable hardware for intelligent systems.*
 
+### 🔹 Team Leadership
+
+**Team Leader & Electronic CTO**  
+**Mohammad Amin Khadem Al Hosseini**  
+🔗 GitHub: https://github.com/amin98hosseini
+
+---
+
+### 🔹 Core Engineering Team
+
+**Photonic Lead & Electronic Designer**  
+**Zahra AminRayai Jezeh**  
+🔗 GitHub: https://github.com/zahra-aminraya
+
+> *Engineering reliable hardware for intelligent systems.*
+
 ---
 
 ## 📬 Contact
